@@ -1,1 +1,2 @@
 Hello class!
+It is time to practice by playing around with git! Yay!!
